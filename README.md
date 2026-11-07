@@ -1,6 +1,7 @@
 # OSPinOverload
 
-**为 WLoc / MyLoc 调整 iOS 定位服务的证书固定兼容设置。**
+**为 WLoc / MyLoc 调整 iOS 定位服务的证书固定兼容设置。**  
+<img width="207" height="448" alt="IMG" src="https://github.com/user-attachments/assets/ea2ecc54-329c-4f5d-b42c-6122af8ea423" />
 
 版本 **[1.0.2 · build 10](https://github.com/DKJone/OSPinOverload/releases)**。通过 TrollStore 安装，仅用于本人持有或明确授权的设备。
 
